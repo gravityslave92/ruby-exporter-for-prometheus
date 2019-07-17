@@ -1,0 +1,7 @@
+cloudhash/*.rb
+client_test.rb
+connect_nonblock.rb
+ruby_prof_test.rb
+sock_test.rb
+write.rb
+/.idea
